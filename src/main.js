@@ -31,8 +31,6 @@ const crawler = new PuppeteerCrawler({
       return result;
     });
 
-    console.log(data)
-
     // Store the results to the default dataset.
     await Dataset.pushData(data);
   },
