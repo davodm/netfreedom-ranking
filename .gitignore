@@ -130,3 +130,7 @@ package-lock.json
 apify_storage
 storage
 .DS_STORE
+
+# Added by Apify CLI
+node_modules
+.venv

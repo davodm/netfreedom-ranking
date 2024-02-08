@@ -17,6 +17,10 @@ apify run
 
 Or you can create a new actor on your console and run the script from there.
 
+```bash
+apify push
+```
+
 ## Output
 
 The script will output an array of objects, each representing a country's data from the Net Freedom Index. Each object will have the following structure:
