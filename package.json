@@ -1,0 +1,17 @@
+{
+  "name": "netfreedom-ranking",
+  "version": "0.1",
+  "type": "module",
+  "description": "Fetch latest ranking list of Netfreedom on Freedom House",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+  },
+  "author": "Davod Mozafari",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^3.1.15",
+    "crawlee": "^3.7.3",
+    "puppeteer": "*"
+  }
+}

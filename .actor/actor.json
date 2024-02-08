@@ -1,0 +1,11 @@
+{
+    "actorSpecification": 1,
+    "name": "netfreedom-ranking",
+    "title": "Netfreedom Ranking List",
+    "description": "Fetch latest ranking list of Netfreedom on Freedom House.",
+    "version": "0.1",
+    "meta": {
+        "templateId": "js-crawlee-puppeteer-chrome"
+    },
+    "dockerfile": "./Dockerfile"
+}
