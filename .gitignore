@@ -129,3 +129,4 @@ dist
 package-lock.json
 apify_storage
 storage
+.DS_STORE
